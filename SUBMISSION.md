@@ -4,13 +4,13 @@ Name: Danil Sobar  Group: PO 25-Z  Date: 22.10.26
 
 ## What is done
 
-- [ ] M0: venv created, dependencies installed, fastapi dev main.py starts
-- [ ] M1: http://localhost:8000/messages returns []
-- [ ] M2: chat-api/ collection created inside the repository, first request saved as a file
-- [ ] M3: seven requests saved, codes match the table
-- [ ] M4: local environment, {{baseUrl}}, and {{messageId}} from the post-response script
+- [x] M0: venv created, dependencies installed, fastapi dev main.py starts
+- [x] M1: http://localhost:8000/messages returns []
+- [x] M2: chat-api/ collection created inside the repository, first request saved as a file
+- [x] M3: seven requests saved, codes match the table
+- [x] M4: local environment, {{baseUrl}}, and {{messageId}} from the post-response script
 - [x] M5: PATCH written
-- [ ] M6: all four PATCH checks pass
+- [x] M6: all four PATCH checks pass
 
 ## What is in the collection
 
