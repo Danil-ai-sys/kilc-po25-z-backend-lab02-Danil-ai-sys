@@ -1,6 +1,6 @@
 # Report
 
-Name: <ваше имя>  Group: <группа>  Date: <дата>
+Name: Danil Sobar  Group: PO 25-Z  Date: 22.10.26
 
 ## What is done
 
